@@ -23,3 +23,8 @@ Outputs
         A plot of apparent resistivity versus frequency.
         A plot of phase versus frequency.
         Subsurface conductivity and thickness profile.
+
+![rho_freq_phase](https://github.com/user-attachments/assets/d4c05e78-4dd4-4bc2-b5fa-bc2847216c69)
+
+
+![cross_section-ex](https://github.com/user-attachments/assets/706ac9d0-e0de-4ec2-b8d3-a5f39b641fb3)
